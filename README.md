@@ -4,7 +4,7 @@ Assumes Mocha and Axios are pre-installed
 
 Download package.json and test.js or SWTest.zip
 
-Place package.json and test.js in a folder OR extract SWTest into a folder
+Place package.json and test.js in a folder OR extract SWTest.zip into a folder
 
 Use terminal / windows command prompt to navigate to the folder you placed the files in
 
